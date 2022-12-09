@@ -1,6 +1,6 @@
-<h1 align="center">I'm an iron man 👋</h1>
+<h1 align="center">I'm an Iron Man 👋</h1>
 
-## 🌈 Technologies
+## 🚀 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -12,3 +12,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📞 Contactsv
+![discord](https://img.shields.io/badge/Discord-ToniStark%237771-orange)
