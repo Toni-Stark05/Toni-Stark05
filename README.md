@@ -24,6 +24,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Toni-Stark05&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-</div>
+
